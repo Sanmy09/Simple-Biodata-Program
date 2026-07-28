@@ -30,6 +30,3 @@ As simple Python program that displays user biodata using variables and the prin
 1. Open the project using Google Colab, VS Code, or any Python IDE.
 2. Run the python file
 3. The biodata will be displayed in the terminal or output window.
-
-## 👤Author
-**Sanja**
