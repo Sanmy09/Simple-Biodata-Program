@@ -18,11 +18,13 @@ As simple Python program that displays user biodata using variables and the prin
 - Print() function
 
 ## 🖥️Example Output
-- Name           : Sanja
-- Gender         : Female
-- Province       : East Java
-- Hobby          : Watch drama, playing game
-- Dream Career   : Data Scientist
+'''text
+ Name           : Sanja
+ Gender         : Female
+ Province       : East Java
+ Hobby          : Watch drama, playing game
+ Dream Career   : Data Scientist
+ '''
 
 ## 🚀How to Run
 1. Open the project using Google Colab, VS Code, or any Python IDE.
